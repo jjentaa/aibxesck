@@ -24,8 +24,8 @@
     ```
 
 ## Running the Streamlit App
-1. Place your Streamlit app code in a Python file (e.g., `app.py`).
-2. In the terminal, navigate to the directory where your Python file is located.
+1. Add API key and your own prompt to Streamlit app code (`app.py`).
+2. In the terminal, navigate to the directory where your Streamlit app code (`app.py`) file is located.
 3. Make sure your virtual environment is activated (if not, follow step 4 from the installation steps).
 4. Run the following command to start the Streamlit app:
     ```
